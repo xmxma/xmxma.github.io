@@ -1,0 +1,25 @@
+h1{
+    font-size: 45px;
+    color: rgb(255, 125, 4);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+p {
+    font-size: 20px;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#contacto img{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+    
+
+
+}
